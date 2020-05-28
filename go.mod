@@ -1,4 +1,4 @@
-module github.com/oasislabs/safeopen
+module github.com/oasisprotocol/safeopen
 
 go 1.13
 
